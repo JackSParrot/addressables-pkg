@@ -1,0 +1,17 @@
+{
+	"name": "addressables-essentials",
+	"version": "1.0.0",
+	"displayName": "Addressables Essentials",
+	"description": "Collection of things necessary to have a project working with Addressables",
+	"unity": "2020.3",
+	"keywords": [
+		"addressables"
+	],
+	"dependencies": {
+		"com.unity.addressables": "1.16.19"
+	},
+	"author": {
+		"name": "Francisco Ruiz"
+	},
+	"documentationUrl": ""
+}
